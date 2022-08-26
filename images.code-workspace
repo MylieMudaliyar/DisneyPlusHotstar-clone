@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"name": "images",
+		"path": "..\\..\\Downloads\\hotstar-main\\hotstar-main\\images"
+	},
+	{
+		"name": "videos",
+		"path": "..\\..\\Downloads\\hotstar-main\\hotstar-main\\videos"
+	},
+	{
+		"name": "hotstar-clone",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "hotstar-clone"
+  }
+}
